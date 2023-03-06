@@ -1,0 +1,15 @@
+/Users/iic/Programming/C#/HarvardReferencingTool/bin/Debug/net7.0/HarvardReferencingTool
+/Users/iic/Programming/C#/HarvardReferencingTool/bin/Debug/net7.0/HarvardReferencingTool.deps.json
+/Users/iic/Programming/C#/HarvardReferencingTool/bin/Debug/net7.0/HarvardReferencingTool.runtimeconfig.json
+/Users/iic/Programming/C#/HarvardReferencingTool/bin/Debug/net7.0/HarvardReferencingTool.dll
+/Users/iic/Programming/C#/HarvardReferencingTool/bin/Debug/net7.0/HarvardReferencingTool.pdb
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/HarvardReferencingTool.csproj.AssemblyReference.cache
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/HarvardReferencingTool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/HarvardReferencingTool.AssemblyInfoInputs.cache
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/HarvardReferencingTool.AssemblyInfo.cs
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/HarvardReferencingTool.csproj.CoreCompileInputs.cache
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/HarvardReferencingTool.dll
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/refint/HarvardReferencingTool.dll
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/HarvardReferencingTool.pdb
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/HarvardReferencingTool.genruntimeconfig.cache
+/Users/iic/Programming/C#/HarvardReferencingTool/obj/Debug/net7.0/ref/HarvardReferencingTool.dll
